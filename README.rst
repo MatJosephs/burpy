@@ -9,14 +9,14 @@ Installation
 ------------
 
 
-You can install ``burpy`` with ``pip``::
-	# pip install burpy
+You can install ``burpy`` with ``pip``:
+	$ pip install burpy
 
 
 Usage
 -----
 
-In Python::
+In Python:
 	>>> import burpy
 	>>> burpy.log_analysis(file_path="PATH_TO_BURP_HTTP_HISTORY", output_format="csv")	
 
