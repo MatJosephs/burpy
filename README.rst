@@ -2,7 +2,7 @@ Burpy
 =====
 
 
-This module was created to parse and format the HTTP history from Burp Suite. The module was created to compensate for the ``Search`` and ``Save Process to Disk`` features which are missing from Burp Suite Community Edition. At the moment, ``Burpy`` can output to the following formats: xlsx, csv, json. 
+This module was created to parse and format the HTTP history from Burp Suite. The module was created to compensate for the ``Search`` and ``Save Project to Disk`` features which are missing from Burp Suite Community Edition. At the moment, ``Burpy`` can output to the following formats: xlsx, csv, json. 
 
 
 Installation
